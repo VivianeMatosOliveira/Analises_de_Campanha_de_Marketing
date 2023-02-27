@@ -118,8 +118,8 @@ A base de dados consiste em um arquivo CSV com a estrutura abaixo:
 
 
 # Métricas Analisadas
-** Visão Cliente**
-1. Total de Clientes Cadasdtrados
+**Visão Cliente**
+1. Total de Clientes Cadastrados
 
 
 # Link do Dashboard
