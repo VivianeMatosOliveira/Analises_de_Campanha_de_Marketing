@@ -35,9 +35,61 @@ O marketing é crucial para as empresas por vários motivos. Alguns deles inclue
 
 
 # Base de Dados
-A base de dados consiste em um arquivo CSV com a seguinte estrutura:
+A base de dados consiste em um arquivo CSV com a seguinte estrutura de variáveis:
 
+**ID** : identificador único do cliente
 
+**Ano Nascimento** : ano de nascimento do cliente
+
+**Escolaridade**: escolaridade do cliente - Mestrado, Doutorado, Curso Superior, Segundo Grau, Primeiro Grau
+
+**Estado Civil**: Solteiro, Casado, Divorciado
+
+**Salario Anual**: Total de salário anual
+
+**Filhos em Casa**: quantidade de filhos que residem na casa
+
+**Adolescentes em Casa**: quantidade de adolescentes que residem na casa
+
+**Data Cadastro**: Data de cadastro do cliente
+
+**Dias Desde Ultima Compra**: Total de dias corridos desde a última compra
+
+**Gasto com Eletronicos**: quantidade de gastos com produtos classificados como eletrônicos
+
+**Gasto com Brinquedos**: quantidade de gastos com produtos classificados como brinquedos
+
+**Gasto com Moveis**: quantidade de gastos com produtos classificados como móveis
+
+**Gasto com Utilidades**: quantidade de gastos com produtos classificados como utilidades
+
+**Gasto com Alimentos**: quantidade de gastos com produtos classificados como alimentos
+
+**Gasto com Vestuario**: quantidade de gastos com produtos classificados como vestuário
+
+**Numero de Compras com Desconto**: total de compras realizadas com desconto
+
+**Numero de Compras na Web**:total de compras realizadas na web
+
+**Numero de Compras via Catalogo**:total de compras realizadas via catálogo
+
+**Numero de Compras na Loja**:total de compras realizadas em loja fisica
+
+**Numero Visitas WebSite Mes**:total de visitas no website
+
+**Compra na Campanha 1**:total de compras realizadas na campanha 1
+
+**Compra na Campanha 2**:total de compras realizadas na campanha 2
+
+**Compra na Campanha 3**:total de compras realizadas na campanha 3
+
+**Compra na Campanha 4**:total de compras realizadas na campanha 4
+
+**Compra na Campanha 5**total de compras realizadas na campanha 5
+
+**Comprou** : se houve compra em pelo menos uma das campanhas 0 - Não / 1- Sim
+
+**Pais**: Pais onde ocorreu a venda
 
 
 # Ferramentas Utilizadas no Projeto
