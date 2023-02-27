@@ -35,7 +35,9 @@ O marketing é crucial para as empresas por vários motivos. Alguns deles inclue
 
 
 # Base de Dados
-A base de dados consiste em um arquivo CSV com a seguinte estrutura de variáveis:
+A base de dados consiste em um arquivo CSV com estrutura abaixo:
+
+*Dicionário de dados*
 
 **ID** : identificador único do cliente
 
@@ -69,25 +71,25 @@ A base de dados consiste em um arquivo CSV com a seguinte estrutura de variávei
 
 **Numero de Compras com Desconto**: total de compras realizadas com desconto
 
-**Numero de Compras na Web**:total de compras realizadas na web
+**Numero de Compras na Web**: total de compras realizadas na web
 
-**Numero de Compras via Catalogo**:total de compras realizadas via catálogo
+**Numero de Compras via Catalogo**: total de compras realizadas via catálogo
 
-**Numero de Compras na Loja**:total de compras realizadas em loja fisica
+**Numero de Compras na Loja**: total de compras realizadas em loja fisica
 
-**Numero Visitas WebSite Mes**:total de visitas no website
+**Numero Visitas WebSite Mes**: total de visitas no website
 
-**Compra na Campanha 1**:total de compras realizadas na campanha 1
+**Compra na Campanha 1**: realizou compras na campanha 1 ( 0 - Não / 1- Sim)
 
-**Compra na Campanha 2**:total de compras realizadas na campanha 2
+**Compra na Campanha 2**: realizou compras realizadas na campanha 2 ( 0 - Não / 1- Sim)
 
-**Compra na Campanha 3**:total de compras realizadas na campanha 3
+**Compra na Campanha 3**: realizou compras realizadas na campanha 3 ( 0 - Não / 1- Sim)
 
-**Compra na Campanha 4**:total de compras realizadas na campanha 4
+**Compra na Campanha 4**: realizou compras realizadas na campanha 4 ( 0 - Não / 1- Sim)
 
-**Compra na Campanha 5**total de compras realizadas na campanha 5
+**Compra na Campanha 5**: realizou compras realizadas na campanha 5 ( 0 - Não / 1- Sim)
 
-**Comprou** : se houve compra em pelo menos uma das campanhas 0 - Não / 1- Sim
+**Comprou** : houve compra em pelo menos uma das campanhas ( 0 - Não / 1- Sim)
 
 **Pais**: Pais onde ocorreu a venda
 
