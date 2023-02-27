@@ -120,6 +120,13 @@ A base de dados consiste em um arquivo CSV com a estrutura abaixo:
 # Métricas Analisadas
 **Visão Cliente**
 1. Total de Clientes Cadastrados
+2. Média Salarial dos Clientes
+3. Total de Compras em Loja Física
+4. Total de Compras na Web
+5. Total de Compras com Desconto
+6. Total de Clientes por Escolaridade
+7. Total de Clientes por Estado Civil
+8. Segmentação das Análises por país
 
 
 # Link do Dashboard
