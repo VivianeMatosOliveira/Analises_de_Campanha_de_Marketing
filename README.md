@@ -35,7 +35,9 @@ O marketing é crucial para as empresas por vários motivos. Alguns deles inclue
 
 
 # Base de Dados
-A base de dados consiste em um arquivo CSV
+A base de dados consiste em um arquivo CSV com a seguinte estrutura:
+
+
 
 
 # Ferramentas Utilizadas no Projeto
