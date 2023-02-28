@@ -116,7 +116,9 @@ A base de dados consiste em um arquivo CSV com a estrutura abaixo:
 
 # Tratamento dos Dados
 Converter a variável "comprou" de numerica para categórica
+
 Exclusão de valores nulos presentes na variável Salario Anual
+
 Exclusão de outlaiers - variável Salário Anual - valor aparentemente errado 
 
 # Métricas Analisadas
