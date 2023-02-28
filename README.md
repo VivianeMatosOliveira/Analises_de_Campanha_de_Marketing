@@ -1,6 +1,4 @@
 
-<center><img src= 'https://www.datanami.com/wp-content/uploads/2018/09/data_science_shutterstock_shutterstock_Trueffelpix.jpg' width = "500">
-
 # Mini Projeto: Análises de Campanha de Marketing
 Os dados analisados nesse mini projeto representam informações sobre clientes e campanhas de Marketing realizadas por uma empresa.
 
