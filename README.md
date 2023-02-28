@@ -115,7 +115,9 @@ A base de dados consiste em um arquivo CSV com a estrutura abaixo:
 
 
 # Tratamento dos Dados
-
+Converter a variável "comprou" de numerica para categórica
+Exclusão de valores nulos presentes na variável Salario Anual
+Exclusão de outlaiers - variável Salário Anual - valor aparentemente errado 
 
 # Métricas Analisadas
 **Visão Cliente**
@@ -128,5 +130,15 @@ A base de dados consiste em um arquivo CSV com a estrutura abaixo:
 7. Total de Clientes por Estado Civil
 8. Segmentação das Análises por país
 
+**Visão do Comportamento de Compra do Cliente**
+
+1. Total de Gasto por Salário Anual
+2. Total de Gasto por Filhos em Casa
+3. Total de Gasto por Adolescentes em Casa
+4. Total Gasto por Escolaridade por Estado Civil
+
+**Visão da Performance das Campanhas de Marketing**
+
+1. Total de Compras do cliente
 
 # Link do Dashboard
